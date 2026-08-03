@@ -6,8 +6,6 @@
 
 # Hi, I'm Ritakshi 👋
 
-### 🛡️ Aspiring Cybersecurity Analyst
-
 📞 8219951821 &nbsp;|&nbsp; 📧 ritakshidhiman@gmail.com &nbsp;|&nbsp; 📍 Bankhandi, Himachal Pradesh
 
 [
