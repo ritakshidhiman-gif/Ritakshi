@@ -64,9 +64,13 @@ Laureate Institute of Management and Information Technology, Himachal Pradesh
 * Engineered the entire frontend user interface and implemented secure Role-Based Access Control (RBAC) in PHP.
 * Structured relational database tables in MySQL to safely manage student and faculty credentials.
 
-📁 E-Commerce Clothing Platform (Solo Project)
-* Designed and built a fully responsive web application from scratch.
-* Implemented dynamic product catalog filtering, session management, and a functional shopping cart system.
+📁 E-Commerce Platform — Manya's Collection
+* Co-developed a responsive, mobile-friendly retail web application for apparel cataloging.
+* Engineered interactive user interface (UI) layouts including dynamic product grids and navigation systems.
+* Implemented functional shopping cart modules while ensuring cross-browser styling compatibility.
+* Leveraged collaborative development practices to troubleshoot layout bugs and optimize user flows.
+* Tech Stack: HTML5, CSS3, JavaScript
+
 
 📁 Calculator Application (Visual Basic)
 * Developed a fully functional calculator application using Visual Basic during college coursework.
@@ -87,14 +91,6 @@ Laureate Institute of Management and Information Technology, Himachal Pradesh
 - **Microsoft Office Suite:** Word, Excel, PowerPoint, Outlook
 - **Operating Systems:** Windows
 - **Other:** Strong typing skills, attention to detail, written & verbal communication
-
----
-
-## 🚀 Projects
-
-**Calculator Application – Visual Basic**
-Developed a fully functional calculator application using Visual Basic during college coursework, demonstrating ability to design, code, and test software solutions.
-
 ---
 
 ## 🤝 Soft Skills
