@@ -8,12 +8,6 @@
 
 📞 8219951821 &nbsp;|&nbsp; 📧 ritakshidhiman@gmail.com &nbsp;|&nbsp; 📍 Bankhandi, Himachal Pradesh
 
-[
-
-![Resume](https://img.shields.io/badge/📄_View_My_Resume-PDF-2563EB?style=for-the-badge)
-
-](Ritakshi_Resume1.pdf)
-
 </div>
 
 ---
