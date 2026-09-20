@@ -57,10 +57,21 @@ Laureate Institute of Management and Information Technology, Himachal Pradesh
 
 ## 🚀 Projects
 
-### 🧮 Calculator Application — Visual Basic
-Developed a fully functional calculator application using Visual Basic during college coursework, demonstrating ability to design, code, and test software solutions.
+🚀 Projects
 
----
+📁 College Management System (Team Project)
+* Developed a full-stack web application designed to streamline campus operations.
+* Engineered the entire frontend user interface and implemented secure Role-Based Access Control (RBAC) in PHP.
+* Structured relational database tables in MySQL to safely manage student and faculty credentials.
+
+📁 E-Commerce Clothing Platform (Solo Project)
+* Designed and built a fully responsive web application from scratch.
+* Implemented dynamic product catalog filtering, session management, and a functional shopping cart system.
+
+📁 Calculator Application (Visual Basic)
+* Developed a fully functional calculator application using Visual Basic during college coursework.
+* Demonstrated ability to implement logical conditions, operator precedence, and robust UI layouts.
+
 
 ## 🤝 Soft Skills
 
