@@ -1,9 +1,5 @@
 
 
-<div align="center">
-
-<img src="profile_circle.png" width="150" height="150" alt="Ritakshi"/>
-
 # Hi, I'm Ritakshi 👋
 
 📞 8219951821 &nbsp;|&nbsp; 📧 ritakshidhiman@gmail.com &nbsp;|&nbsp; 📍 Bankhandi, Himachal Pradesh
@@ -71,10 +67,6 @@ Laureate Institute of Management and Information Technology, Himachal Pradesh
 * Leveraged collaborative development practices to troubleshoot layout bugs and optimize user flows.
 * Tech Stack: HTML5, CSS3, JavaScript
 
-
-📁 Calculator Application (Visual Basic)
-* Developed a fully functional calculator application using Visual Basic during college coursework.
-* Demonstrated ability to implement logical conditions, operator precedence, and robust UI layouts.
 
 
 ## 🤝 Soft Skills
