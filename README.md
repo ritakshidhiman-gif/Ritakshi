@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Ritakshi 👋
+# Hi, I'm Ritakshi ✨
 
 📞 8219951821 &nbsp;|&nbsp; 📧 ritakshidhiman@gmail.com &nbsp;|&nbsp; 📍 Bankhandi, Himachal Pradesh
 
